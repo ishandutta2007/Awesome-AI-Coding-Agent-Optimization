@@ -1,44 +1,47 @@
-# Awesome-AI-Coding-Agent-Optimization
+# ⚡ Awesome AI Coding Agent Optimization
 
-## Top AI Coding Agent Optimization Platforms Ecosystem
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome AI Coding Agent Optimization Banner" width="100%" />
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Coding-Agent-Optimization/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Coding-Agent-Optimization?style=flat-square&logo=github" alt="Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Coding-Agent-Optimization/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Coding-Agent-Optimization?style=flat-square&logo=github" alt="Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Coding-Agent-Optimization/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Coding-Agent-Optimization?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-*Focused on Efficient Coding Agents, Token/Cost Reduction, Minimal Implementations & Agent Behavior Optimization*
+---
 
-**Last updated: October 2026**
+## 🚀 Overview & Ecosystem
 
+A curated directory of **AI Coding Agent Optimization** tools, SaaS platforms, and open-source frameworks. This list focuses on maximizing agent efficiency, slashing token consumption, reducing context costs, enforcing minimal diffs, eliminating over-engineering (YAGNI), and steering autonomous coding workflows toward lean, production-grade output.
 
+> **Last updated:** October 2026
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Coding Agent Optimization**. These tools and layers improve how coding agents work—reducing over-engineering, cutting token usage and cost, producing smaller correct diffs, and steering agents toward maximal efficiency.
+---
 
+## 📑 Table of Contents
 
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [💼 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Optimization Techniques & Best Practices](#️-optimization-techniques--best-practices)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsor](#-support--sponsor)
+- [⭐ Star History](#-star-history)
+- [📜 Disclaimer](#-disclaimer)
 
-**Examples** include GitHub Copilot Enterprise, Cursor, Codeium, Tabnine Enterprise, Amazon Q Developer, Augment Code, Sourcegraph Cody, JetBrains AI, Windsurf, and Supermaven Enterprise (the category leaders).
+---
 
+## 🌐 Sector Overview & Market Dynamics
 
+The global AI developer tools and coding agents market has surged from an estimated **$5.5 billion in 2024 to over $18+ billion in 2026**, driven by widespread developer adoption of agentic IDEs, autonomous refactoring pipelines, and multi-file reasoning assistants. The sector currently exhibits **moderate fragmentation with strong consolidation tailwinds**: while big tech incumbents (Microsoft/GitHub Copilot, Amazon Q) and category-defining leaders (Cursor, Codeium/Windsurf) capture substantial enterprise volume through distribution moats, the ecosystem remains dynamic with innovative startups and open-source middleware layers capturing significant market share around cost efficiency, local LLM execution, and token-saving agent behaviors.
 
-**Open-source emphasis**: Optimization of agent behavior is an active open-source area. **Ponytail** and related behavior/middleware layers push coding agents toward simpler, cheaper, and more reliable implementations. This section is heavily expanded.
+---
 
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
+## 💼 SaaS/Hosted Platforms
 
 | Product | Description | Pricing (Starting Paid Tier) | Free Tier Limits / Trial | Company Size (Valuation / Revenue) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -53,115 +56,98 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Supermaven Enterprise](https://supermaven.com/)** | High-speed AI coding assistant optimized for low latency and efficient completions in professional environments. | $10 / user / month (Pro Tier) | Free forever: basic low-latency completions (excludes 1M token context & $5 chat credits); 7-day Pro trial | Acquired by Cursor/Anysphere (Parent valued at $29.3B; $12M prior funding) |
 | **[Tabnine Enterprise](https://www.tabnine.com/)** | Privacy-oriented AI coding assistant with private models and enterprise controls for efficient, compliant code generation. | $12 / user / month (Pro Tier, annual billing) | Free Basic tier: short single-line code completions & limited chat rate; 14-day Pro trial | ~$100M+ Funding (~$27M Annual Revenue) |
 
+---
 
+## 🔓 Open-Source GitHub Projects
 
+Curated open-source coding agents, efficiency middleware, and agent runtime frameworks, sorted in descending order by GitHub stars:
 
-## Open-Source GitHub Projects
+1. **[OpenCode](https://github.com/anomalyco/opencode)** [![GitHub stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers)  
+   The open-source coding agent designed for terminal and desktop workflows; connects natively to any model provider and works seamlessly with efficiency-oriented rulesets.
 
-- **[Ponytail](https://github.com/DietrichGebert/ponytail)**  
+2. **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [![GitHub stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
+   Pioneering autonomous AI agent framework capable of executing multi-step coding, engineering workflows, and system-level task chains.
 
-  Middleware / agent behavior layer that pushes coding agents toward maximal efficiency — “makes your AI agent think like the laziest senior dev,” reducing code volume, tokens, time, and cost while keeping correctness high.
+3. **[Ponytail](https://github.com/DietrichGebert/ponytail)** [![GitHub stars](https://img.shields.io/github/stars/DietrichGebert/ponytail?style=social&color=white)](https://github.com/DietrichGebert/ponytail/stargazers)  
+   Middleware and agent behavior layer that pushes coding agents toward maximal efficiency — “makes your AI agent think like the laziest senior dev,” slashing token usage, diff size, and execution costs.
 
+4. **[OpenHands](https://github.com/OpenHands/OpenHands)** [![GitHub stars](https://img.shields.io/github/stars/OpenHands/OpenHands?style=social&color=white)](https://github.com/OpenHands/OpenHands/stargazers)  
+   Open-source platform for autonomous software development agents that build, refactor, and test software inside controlled sandboxed environments.
 
+5. **[MetaGPT](https://github.com/geekan/MetaGPT)** [![GitHub stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers)  
+   Multi-agent collaborative framework that simulates an entire software company (Product Managers, Architects, Project Managers, Engineers) with Standard Operating Procedures (SOPs) to generate complete codebases.
 
-- **[Aider](https://github.com/Aider-AI/aider)**  
+6. **[Cline](https://github.com/cline/cline)** [![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers)  
+   Autonomous coding agent inside VS Code featuring human-in-the-loop approval gates, command execution, and granular file diff inspections.
 
-  Open-source terminal pair-programming agent that maps the codebase and makes focused, git-native edits—naturally efficient when used with clear, scoped prompts.
+7. **[Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)** [![GitHub stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social&color=white)](https://github.com/OpenInterpreter/open-interpreter/stargazers)  
+   Natural language interface for running code locally on your machine, orchestrating complex terminal commands, scripts, and local model inference.
 
+8. **[Aider](https://github.com/Aider-AI/aider)** [![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers)  
+   Terminal-first AI pair programming tool that builds concise codebase repository maps and generates clean, git-native, minimal commits.
 
+9. **[Continue](https://github.com/continuedev/continue)** [![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers)  
+   Leading open-source autopilot extension for VS Code and JetBrains, allowing developers to connect custom models, local LLMs (Ollama), and team-wide coding rules.
 
-- **[OpenHands](https://github.com/OpenHands/OpenHands)**  
+10. **[GPT Pilot](https://github.com/Pythagora-io/gpt-pilot)** [![GitHub stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social&color=white)](https://github.com/Pythagora-io/gpt-pilot/stargazers)  
+    Dev-tool agent that collaborates with developers step-by-step to write entire production apps from scratch while iteratively testing and fixing code.
 
-  Open-source autonomous coding agent platform; efficiency depends on configuration, model choice, and behavior rules layered on top.
+11. **[Roo Code](https://github.com/RooVetGit/Roo-Code)** [![GitHub stars](https://img.shields.io/github/stars/RooVetGit/Roo-Code?style=social&color=white)](https://github.com/RooVetGit/Roo-Code/stargazers)  
+    AI pair programmer and agentic VS Code extension with custom personas, mode-switching (Architect, Code, Ask), and fine-grained token controls.
 
+12. **[SWE-agent](https://github.com/SWE-agent/SWE-agent)** [![GitHub stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=social&color=white)](https://github.com/SWE-agent/SWE-agent/stargazers)  
+    State-of-the-art research agent from Princeton NLP designed specifically to solve end-to-end GitHub issues autonomously on the SWE-bench benchmark.
 
-
-- **[OpenCode](https://github.com/anomalyco/opencode)**  
-
-  Open-source coding agent (terminal + desktop) that works with any provider; pairs well with efficiency-oriented behavior layers.
-
-
-
-- **[Cline](https://github.com/cline/cline)**  
-
-  Open-source coding agent with approval gates; useful for controlled, step-by-step efficient changes in IDE or CI.
-
-
-
-- **[SWE-agent](https://github.com/SWE-agent/SWE-agent)**  
-
-  Open-source research agent for solving GitHub issues; optimization comes from task design, model choice, and added behavior rules.
-
-
-
-- **[Local model + agent stacks](https://github.com/search?q=local+llm+coding+agent)**  
-
-  Combinations of Ollama / llama.cpp / vLLM with open coding agents to reduce cost and keep data local while optimizing for efficiency.
-
-
-
-- **[Prompt and skill libraries for lean coding](https://github.com/DietrichGebert/ponytail)**  
-
-  Shared agent skills and rulesets (including Ponytail) that encode YAGNI, minimal diffs, and “lazy senior” behavior.
-
-
-
-- **[Benchmarking agent efficiency](https://github.com/DietrichGebert/ponytail)**  
-
-  Community benchmarks that measure lines of code, tokens, time, and correctness so teams can compare optimized vs baseline agents.
-
-
-
-- **[Documentation and efficiency guides](https://ponytail.dev/)**  
-
-  Resources on measuring and improving coding agent efficiency (tokens, cost, over-engineering, test coverage of risky logic).
-
-
-
-### Additional Strong Open-Source Options
-
-- Applying **Ponytail** as a behavior middleware on top of Claude Code, Codex, Gemini CLI, Aider, or other agents.
-
-- Preferring git-native, scoped edits with **Aider** to avoid large unnecessary diffs.
-
-- Running agents against local or cheaper models once behavior rules keep quality high.
-
-- Measuring token/cost/LOC impact before and after optimization layers.
-
-- Accepting that commercial platforms (Copilot Enterprise, Cursor, Codeium, Tabnine, Amazon Q, Cody, JetBrains AI, Windsurf, Supermaven) still lead in out-of-the-box polish and integrated efficiency features.
-
-
-
-**Frameworks for building custom systems**: Choose any capable coding agent → add **Ponytail** (or equivalent lean-coding rules) → measure tokens, LOC, time, and correctness → iterate. Suitable for teams that want more efficient agents without sacrificing reliability. Many still rely on commercial AI coding products for convenience while layering open optimization rules where possible.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Optimized agents can still make mistakes. Always review diffs, keep tests, and monitor cost and quality. This list is not engineering or financial advice.
-
-
+13. **[Sweep](https://github.com/sweepai/sweep)** [![GitHub stars](https://img.shields.io/github/stars/sweepai/sweep?style=social&color=white)](https://github.com/sweepai/sweep/stargazers)  
+    AI junior developer that automatically turns bug reports and feature requests into small, clean, test-passing pull requests.
 
 ---
 
-**Made for developers, platform teams, and open-source agent builders.**
+## 🛠️ Optimization Techniques & Best Practices
 
-Let's keep coding agents efficient, lean, and as open as practical.
+- **Minimal Diffs & YAGNI Enforcement**: Use behavior middleware like **Ponytail** or strict system prompts to prevent agents from refactoring unrelated modules or over-engineering solutions.
+- **Repository Mapping**: Pre-compute ASTs and symbol trees (as seen in **Aider**) to avoid feeding multi-thousand token raw files into the LLM context window.
+- **Local Model Routing**: Route repetitive tasks, code completions, and simple unit tests to local engines (Ollama, vLLM, llama.cpp) while reserving frontier models for architectural decisions.
+- **Approval Gates & Sandboxed Runtimes**: Use containerized runners (e.g., Docker in **OpenHands**) to execute and verify agent test results without polluting local environments.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Please follow these steps:
+
+1. 🍴 **Fork** the repository.
+2. 📝 **Add/edit** entries in `README.md` following the existing format.
+3. 🔗 **Include**: Tool name, official link, 1–2 sentence description, pricing/star details, and whether it is SaaS or open-source.
+4. 🚀 **Submit a Pull Request** with a concise description of your changes.
+
+---
+
+## 💖 Support & Sponsor
+
+If you find this repository helpful for optimizing your developer workflows or exploring the AI coding ecosystem, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork it** and build your own tailored agent stacks.
+- 📢 **Share** it with your engineering team, developer communities, and on social media.
+- ☕ **Buy me a coffee**: If you'd like to sponsor continued maintenance, research, and updates, you can sponsor directly via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007). Your support is deeply appreciated! ❤️
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Coding-Agent-Optimization&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Coding-Agent-Optimization&type=date&legend=top-left)
+
+---
+
+## 📜 Disclaimer
+
+- This is a **community-curated** list for informational and educational purposes only. Mention of any product or service does not constitute an official endorsement.
+- Optimized coding agents can still hallucinate or produce faulty code. Always review diffs, run test suites, and audit costs and token consumption in production environments.
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for developers, engineering teams, and AI agent builders worldwide.</b><br />
+  <sub>Let's make AI coding agents faster, leaner, and more cost-efficient!</sub>
+</p>
