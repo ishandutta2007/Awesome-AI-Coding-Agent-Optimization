@@ -40,63 +40,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[GitHub Copilot Enterprise](https://github.com/features/copilot)**  
+| Product | Description | Pricing (Starting Paid Tier) | Free Tier Limits / Trial | Company Size (Valuation / Revenue) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Amazon Q Developer](https://aws.amazon.com/q/developer/)** | AWS AI coding companion with code generation, explanation, and agent capabilities tuned for cloud and enterprise development efficiency. | $19 / user / month (Pro Tier) | Free forever: 50 agentic/chat requests/mo, 1,000 LOC code transformations/mo, 50 security scans/mo (via AWS Builder ID) | ~$2.0T+ Market Cap (Amazon/AWS parent) |
+| **[GitHub Copilot Enterprise](https://github.com/features/copilot)** | Enterprise Copilot experience with organization-wide context, policy controls, and features aimed at productive, high-quality agent-assisted coding. | $39 / user / month (Copilot Enterprise; requires GitHub Enterprise Cloud) | Free plan: 2,000 code completions/mo & 50 chat requests/mo | ~$3.1T+ Market Cap (Microsoft parent; GitHub >$1B+ ARR) |
+| **[Cursor](https://cursor.com/)** | AI-first code editor with strong codebase indexing and agentic workflows optimized for multi-step coding tasks and large context windows. | $20 / month (Pro Tier) | Free Hobby tier: 2,000 tab completions/mo, 50 slow premium requests/mo; 14-day Pro trial included | $29.3B Valuation (acquired by SpaceX for $60B; >$1B ARR) |
+| **[JetBrains AI](https://www.jetbrains.com/ai/)** | AI features inside JetBrains IDEs focused on smart completion, explanation, and efficient developer workflows. | $10 / month (AI Pro) | AI Free tier: 3 AI cloud credits every 30 days, unlimited local model code completion; 30-day Pro trial | ~$7.0B Valuation (~$710M Annual Revenue) |
+| **[Sourcegraph Cody](https://sourcegraph.com/cody)** | Code-aware AI assistant from Sourcegraph that leverages large-scale code search for precise, context-efficient answers and edits. | $16,000 / year (Enterprise minimum contract) | 14-day customized enterprise proof-of-concept / evaluation upon sales request (retired individual free tier had 200 chats/mo) | $2.6B Valuation (~$50M ARR) |
+| **[Codeium](https://codeium.com/)** | Fast AI coding platform focused on low-latency generation and efficient assistance across IDEs and agent-style experiences. | $15 / month (Pro Tier) | Free forever: unlimited tab completions, basic in-editor chat, limited Cascade flow actions | $1.25B - $2.85B Valuation (~$80M ARR) |
+| **[Windsurf (Codeium)](https://codeium.com/windsurf)** | Agentic IDE experience designed for multi-step coding tasks with an emphasis on practical, efficient agent behavior. | $20 / month (Pro Tier) | Free tier: unlimited tab autocompletions, 25 Cascade Flow Actions/mo, 16K token context window | $1.25B - $2.85B Valuation (Part of Codeium; ~$80M ARR) |
+| **[Augment Code](https://www.augmentcode.com/)** | AI coding platform emphasizing deep codebase context and high-quality, efficient assistance for professional developers. | $20 / month (Indie Tier; 40,000 credits) | 14-day free trial with 30,000 credits (no permanent free tier) | $977M Valuation ($252M+ Total Funding) |
+| **[Supermaven Enterprise](https://supermaven.com/)** | High-speed AI coding assistant optimized for low latency and efficient completions in professional environments. | $10 / user / month (Pro Tier) | Free forever: basic low-latency completions (excludes 1M token context & $5 chat credits); 7-day Pro trial | Acquired by Cursor/Anysphere (Parent valued at $29.3B; $12M prior funding) |
+| **[Tabnine Enterprise](https://www.tabnine.com/)** | Privacy-oriented AI coding assistant with private models and enterprise controls for efficient, compliant code generation. | $12 / user / month (Pro Tier, annual billing) | Free Basic tier: short single-line code completions & limited chat rate; 14-day Pro trial | ~$100M+ Funding (~$27M Annual Revenue) |
 
-  Enterprise Copilot experience with organization-wide context, policy controls, and features aimed at productive, high-quality agent-assisted coding.
-
-
-
-- **[Cursor](https://cursor.com/)**  
-
-  AI-first code editor with strong codebase indexing and agentic workflows optimized for multi-step coding tasks and large context windows.
-
-
-
-- **[Codeium](https://codeium.com/)**  
-
-  Fast AI coding platform focused on low-latency generation and efficient assistance across IDEs and agent-style experiences.
-
-
-
-- **[Tabnine Enterprise](https://www.tabnine.com/)**  
-
-  Privacy-oriented AI coding assistant with private models and enterprise controls for efficient, compliant code generation.
-
-
-
-- **[Amazon Q Developer](https://aws.amazon.com/q/developer/)**  
-
-  AWS AI coding companion with code generation, explanation, and agent capabilities tuned for cloud and enterprise development efficiency.
-
-
-
-- **[Augment Code](https://www.augmentcode.com/)**  
-
-  AI coding platform emphasizing deep codebase context and high-quality, efficient assistance for professional developers.
-
-
-
-- **[Sourcegraph Cody](https://sourcegraph.com/cody)**  
-
-  Code-aware AI assistant from Sourcegraph that leverages large-scale code search for precise, context-efficient answers and edits.
-
-
-
-- **[JetBrains AI](https://www.jetbrains.com/ai/)**  
-
-  AI features inside JetBrains IDEs focused on smart completion, explanation, and efficient developer workflows.
-
-
-
-- **[Windsurf (Codeium)](https://codeium.com/windsurf)**  
-
-  Agentic IDE experience designed for multi-step coding tasks with an emphasis on practical, efficient agent behavior.
-
-
-
-- **[Supermaven Enterprise](https://supermaven.com/)**  
-
-  High-speed AI coding assistant optimized for low latency and efficient completions in professional environments.
 
 
 
