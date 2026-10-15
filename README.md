@@ -60,45 +60,45 @@ The global AI developer tools and coding agents market has surged from an estima
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated open-source coding agents, efficiency middleware, and agent runtime frameworks, sorted in descending order by GitHub stars:
+Curated open-source coding agents, efficiency middleware, and agent runtime frameworks, sorted in descending order by GitHub_Stars:
 
-1. **[OpenCode](https://github.com/anomalyco/opencode)** [![GitHub stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers)  
+1. **[OpenCode](https://github.com/anomalyco/opencode)** [![GitHub_Stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers)  
    The open-source coding agent designed for terminal and desktop workflows; connects natively to any model provider and works seamlessly with efficiency-oriented rulesets.
 
-2. **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [![GitHub stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
+2. **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
    Pioneering autonomous AI agent framework capable of executing multi-step coding, engineering workflows, and system-level task chains.
 
-3. **[Ponytail](https://github.com/DietrichGebert/ponytail)** [![GitHub stars](https://img.shields.io/github/stars/DietrichGebert/ponytail?style=social&color=white)](https://github.com/DietrichGebert/ponytail/stargazers)  
+3. **[Ponytail](https://github.com/DietrichGebert/ponytail)** [![GitHub_Stars](https://img.shields.io/github/stars/DietrichGebert/ponytail?style=social&color=white)](https://github.com/DietrichGebert/ponytail/stargazers)  
    Middleware and agent behavior layer that pushes coding agents toward maximal efficiency — “makes your AI agent think like the laziest senior dev,” slashing token usage, diff size, and execution costs.
 
-4. **[OpenHands](https://github.com/OpenHands/OpenHands)** [![GitHub stars](https://img.shields.io/github/stars/OpenHands/OpenHands?style=social&color=white)](https://github.com/OpenHands/OpenHands/stargazers)  
+4. **[OpenHands](https://github.com/OpenHands/OpenHands)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenHands/OpenHands?style=social&color=white)](https://github.com/OpenHands/OpenHands/stargazers)  
    Open-source platform for autonomous software development agents that build, refactor, and test software inside controlled sandboxed environments.
 
-5. **[MetaGPT](https://github.com/geekan/MetaGPT)** [![GitHub stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers)  
+5. **[MetaGPT](https://github.com/geekan/MetaGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers)  
    Multi-agent collaborative framework that simulates an entire software company (Product Managers, Architects, Project Managers, Engineers) with Standard Operating Procedures (SOPs) to generate complete codebases.
 
-6. **[Cline](https://github.com/cline/cline)** [![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers)  
+6. **[Cline](https://github.com/cline/cline)** [![GitHub_Stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers)  
    Autonomous coding agent inside VS Code featuring human-in-the-loop approval gates, command execution, and granular file diff inspections.
 
-7. **[Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)** [![GitHub stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social&color=white)](https://github.com/OpenInterpreter/open-interpreter/stargazers)  
+7. **[Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social&color=white)](https://github.com/OpenInterpreter/open-interpreter/stargazers)  
    Natural language interface for running code locally on your machine, orchestrating complex terminal commands, scripts, and local model inference.
 
-8. **[Aider](https://github.com/Aider-AI/aider)** [![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers)  
+8. **[Aider](https://github.com/Aider-AI/aider)** [![GitHub_Stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers)  
    Terminal-first AI pair programming tool that builds concise codebase repository maps and generates clean, git-native, minimal commits.
 
-9. **[Continue](https://github.com/continuedev/continue)** [![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers)  
+9. **[Continue](https://github.com/continuedev/continue)** [![GitHub_Stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers)  
    Leading open-source autopilot extension for VS Code and JetBrains, allowing developers to connect custom models, local LLMs (Ollama), and team-wide coding rules.
 
-10. **[GPT Pilot](https://github.com/Pythagora-io/gpt-pilot)** [![GitHub stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social&color=white)](https://github.com/Pythagora-io/gpt-pilot/stargazers)  
+10. **[GPT Pilot](https://github.com/Pythagora-io/gpt-pilot)** [![GitHub_Stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social&color=white)](https://github.com/Pythagora-io/gpt-pilot/stargazers)  
     Dev-tool agent that collaborates with developers step-by-step to write entire production apps from scratch while iteratively testing and fixing code.
 
-11. **[Roo Code](https://github.com/RooVetGit/Roo-Code)** [![GitHub stars](https://img.shields.io/github/stars/RooVetGit/Roo-Code?style=social&color=white)](https://github.com/RooVetGit/Roo-Code/stargazers)  
+11. **[Roo Code](https://github.com/RooVetGit/Roo-Code)** [![GitHub_Stars](https://img.shields.io/github/stars/RooVetGit/Roo-Code?style=social&color=white)](https://github.com/RooVetGit/Roo-Code/stargazers)  
     AI pair programmer and agentic VS Code extension with custom personas, mode-switching (Architect, Code, Ask), and fine-grained token controls.
 
-12. **[SWE-agent](https://github.com/SWE-agent/SWE-agent)** [![GitHub stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=social&color=white)](https://github.com/SWE-agent/SWE-agent/stargazers)  
+12. **[SWE-agent](https://github.com/SWE-agent/SWE-agent)** [![GitHub_Stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=social&color=white)](https://github.com/SWE-agent/SWE-agent/stargazers)  
     State-of-the-art research agent from Princeton NLP designed specifically to solve end-to-end GitHub issues autonomously on the SWE-bench benchmark.
 
-13. **[Sweep](https://github.com/sweepai/sweep)** [![GitHub stars](https://img.shields.io/github/stars/sweepai/sweep?style=social&color=white)](https://github.com/sweepai/sweep/stargazers)  
+13. **[Sweep](https://github.com/sweepai/sweep)** [![GitHub_Stars](https://img.shields.io/github/stars/sweepai/sweep?style=social&color=white)](https://github.com/sweepai/sweep/stargazers)  
     AI junior developer that automatically turns bug reports and feature requests into small, clean, test-passing pull requests.
 
 ---
